@@ -2,3 +2,5 @@ One fish.
 Two fish.
 Red fish.
 Azul pescado.
+
+Hi Natalie! I wonder if this is how CS folks text each other...
